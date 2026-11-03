@@ -12,17 +12,25 @@ I'm an Information Systems graduate from Princess Nourah bint Abdulrahman Univer
 
 ---
 
+
 ### 🛠️ Tech Stack
 
-**Languages:** Dart · Python · JavaScript · SQL · HTML · CSS
+**Languages**
 
-**Development:** Flutter · Firebase · Git
+![Languages](https://skillicons.dev/icons?i=dart,python,js,html,css&theme=light)
 
-**Design & Analytics:** Figma · Power BI
+**Frameworks & Backend**
 
-**Systems:** Linux · Networking · IT Operations
+![Frameworks](https://skillicons.dev/icons?i=flutter,firebase&theme=light)
+
+**Development Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=light)
+
+**Additional Skills:** SQL · Power BI · Networking · IT Operations
 
 ---
+  
 
 ### 🚀 Featured Projects
 
