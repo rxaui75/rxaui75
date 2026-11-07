@@ -73,6 +73,27 @@ A project management case study proposing an enhanced university student platfor
 
 
 
+---
+
+#### 👗 [GARDIROP — AI-Powered Smart Wardrobe](https://github.com/rxaui75/GARDIROP)
+
+**Personal Project | Flutter Developer · UI/UX Designer**
+
+🚧 **Work in Progress — Actively Under Development**
+
+GARDIROP is an AI-powered personal styling application designed to help users organize their wardrobes, discover outfit combinations, and receive personalized styling assistance.
+
+- Digital wardrobe management with AI Scan and Quick Add workflows
+- Personalized style onboarding and wardrobe organization
+- AI-assisted outfit styling and recommendations
+- Arabic and English localization
+
+**Tech Stack:** Flutter · Dart · Firebase · Riverpod · Gemini API
+
+📂 [Explore Project & Source Code](https://github.com/rxaui75/GARDIROP)
+  
+
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rand-al-omari-b1b078277)
