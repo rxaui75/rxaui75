@@ -52,6 +52,26 @@ A Flutter-based mobile application designed to improve the campus café experien
 
 
 
+---
+
+#### 🎓 [PNU Gate — Project Management & UI/UX Prototyping](https://github.com/rxaui75/PNU-Gate)
+
+**Academic Project | Team Leader · Project Manager · UI/UX Contributor**
+
+A project management case study proposing an enhanced university student platform, supported by an interactive Figma prototype.
+
+- Led team coordination, project planning, and documentation
+- Developed project management artifacts including WBS, Gantt Chart, RACI Matrix, and Risk Register
+- Introduced Figma prototyping to strengthen the project proposal and communicate the proposed solution
+- Achieved full marks with positive instructor feedback
+
+**Tools & Methodologies:** Figma · Agile/Scrum · Project Planning · Risk Management
+
+🎨 [Explore Figma Prototype](https://www.figma.com/design/SXm08tTweh2M7DvyYToEN1/PNU-Gate?node-id=0-1)
+
+📂 [View Project Documentation & Screenshots](https://github.com/rxaui75/PNU-Gate)
+
+
 
 ### 📫 Connect With Me
 
