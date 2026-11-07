@@ -1,7 +1,7 @@
 
 # Hi, I'm Rand! 👋🏻
 
-### Information Systems Graduate | Software Developer
+### Information Systems Graduate | Flutter Developer | UI/UX Enthusiast
 
 I'm an Information Systems graduate from Princess Nourah bint Abdulrahman University, passionate about building practical digital solutions and creating intuitive user experiences.
 
