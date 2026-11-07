@@ -92,7 +92,7 @@ GARDIROP is an AI-powered personal styling application designed to help users or
 
 📂 [Explore Project & Source Code](https://github.com/rxaui75/GARDIROP)
   
-
+---
 
 ### 📫 Connect With Me
 
