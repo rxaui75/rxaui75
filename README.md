@@ -52,7 +52,9 @@ A Flutter-based mobile application designed to improve the campus café experien
 
 
 
+
 ### 📫 Connect With Me
 
-LinkedIn and portfolio links coming soon.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rand-al-omari-b1b078277)
+
   
